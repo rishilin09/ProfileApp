@@ -24,3 +24,13 @@
 @import "~@ionic/angular/css/text-alignment.css";
 @import "~@ionic/angular/css/text-transformation.css";
 @import "~@ionic/angular/css/flex-utils.css";
+
+@font-face {   
+    font-family: 'Allura';    //This is what we are going to call
+    src: url('./assets/fonts/Allura-Regular.ttf');
+  }
+
+@font-face {   
+    font-family: 'Michroma';    //This is what we are going to call
+    src: url('./assets/fonts/Michroma-Regular.ttf');
+}
